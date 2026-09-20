@@ -28,4 +28,4 @@ Clases de tamaño de ventana, navegación dinámica y diseño lista-detalle para
 |---|---|
 | `Reply` | Build an adaptive app with dynamic navigation · Build an app with an adaptive layout |
 | `Sports` | Practice: Build Sports app |
-| `MyCity` | Project: Create a My City app |
+| `MyCity` | Project: Create a My City app — app propia "Mi Lima", recomendaciones por categorias |
