@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mi Lima</string>
+    <string name="screen_places">Lugares</string>
+    <string name="screen_detail">Detalle</string>
+    <string name="back_button">Volver</string>
+    <string name="select_a_place">Elige un lugar de la lista</string>
+
+    <string name="category_restaurants">Dónde comer</string>
+    <string name="category_restaurants_description">Comida criolla, marina y chifa</string>
+    <string name="category_coffee">Cafeterías</string>
+    <string name="category_coffee_description">Café de origen y panadería</string>
+    <string name="category_parks">Parques</string>
+    <string name="category_parks_description">Áreas verdes y malecones</string>
+    <string name="category_museums">Museos</string>
+    <string name="category_museums_description">Historia, arte y arqueología</string>
+    <string name="category_shopping">Compras</string>
+    <string name="category_shopping_description">Mercados, artesanía y centros comerciales</string>
+
+    <string name="place_ceviche_name">Cevichería del Puerto</string>
+    <string name="place_ceviche_address">Av. La Marina 1520, San Miguel</string>
+    <string name="place_ceviche_description">Pescado del día y ceviche clásico limeño. Conviene ir al mediodía, que es cuando llega el producto fresco. Porciones generosas y precios de barrio.</string>
+    <string name="place_chifa_name">Chifa Barrio Chino</string>
+    <string name="place_chifa_address">Jr. Capón 780, Cercado de Lima</string>
+    <string name="place_chifa_description">Cocina chino-peruana en pleno Barrio Chino. El arroz chaufa y el wantán frito son la entrada obligatoria. Suele llenarse los domingos.</string>
+    <string name="place_pollada_name">Pollería La Brasa</string>
+    <string name="place_pollada_address">Av. Brasil 2450, Pueblo Libre</string>
+    <string name="place_pollada_description">Pollo a la brasa con papas y ensalada, el plato de los domingos en familia. Atienden hasta tarde y tienen salón amplio.</string>
+
+    <string name="place_cafe_centro_name">Café del Centro</string>
+    <string name="place_cafe_centro_address">Jr. de la Unión 620, Cercado de Lima</string>
+    <string name="place_cafe_centro_description">Cafetería de toda la vida en el centro histórico. Buen lugar para parar entre una visita y otra, con café peruano y sánguches.</string>
+    <string name="place_cafe_barranco_name">Tostaduría Barranco</string>
+    <string name="place_cafe_barranco_address">Av. Grau 320, Barranco</string>
+    <string name="place_cafe_barranco_description">Tuestan su propio café de Chanchamayo y Cusco. Tienen mesas afuera, a media cuadra del Puente de los Suspiros.</string>
+    <string name="place_cafe_libreria_name">Café Librería</string>
+    <string name="place_cafe_libreria_address">Av. Petit Thouars 4200, Miraflores</string>
+    <string name="place_cafe_libreria_description">Café y librería en el mismo local. Silencioso, con enchufes en casi todas las mesas: sirve para estudiar o trabajar un rato.</string>
+
+    <string name="place_reserva_name">Parque de la Reserva</string>
+    <string name="place_reserva_address">Av. Petit Thouars s/n, Cercado de Lima</string>
+    <string name="place_reserva_description">Alberga el Circuito Mágico del Agua, un conjunto de fuentes ornamentales con juegos de luces. Conviene ir de noche, que es cuando encienden el espectáculo.</string>
+    <string name="place_kennedy_name">Parque Kennedy</string>
+    <string name="place_kennedy_address">Av. Larco, Miraflores</string>
+    <string name="place_kennedy_description">El parque central de Miraflores, conocido por los gatos que viven ahí y por las ferias de artesanía y pintura de los fines de semana.</string>
+    <string name="place_malecon_name">Malecón de Miraflores</string>
+    <string name="place_malecon_address">Malecón Cisneros, Miraflores</string>
+    <string name="place_malecon_description">Varios kilómetros de acantilado frente al mar, con ciclovía y parques encadenados. El atardecer es la mejor hora para recorrerlo.</string>
+
+    <string name="place_larco_name">Museo Larco</string>
+    <string name="place_larco_address">Av. Bolívar 1515, Pueblo Libre</string>
+    <string name="place_larco_description">Colección de arte precolombino en una casona del siglo XVIII rodeada de jardines. Su depósito abierto permite ver miles de piezas en almacén.</string>
+    <string name="place_mali_name">Museo de Arte de Lima</string>
+    <string name="place_mali_address">Paseo Colón 125, Cercado de Lima</string>
+    <string name="place_mali_description">Conocido como el MALI, reúne arte peruano desde la época precolombina hasta la contemporánea, en el Palacio de la Exposición.</string>
+    <string name="place_catacumbas_name">Convento de San Francisco</string>
+    <string name="place_catacumbas_address">Jr. Lampa s/n, Cercado de Lima</string>
+    <string name="place_catacumbas_description">Conjunto colonial con biblioteca antigua y catacumbas subterráneas que funcionaron como cementerio. La visita es guiada.</string>
+
+    <string name="place_mercado_name">Mercado de Surquillo</string>
+    <string name="place_mercado_address">Av. Paseo de la República, Surquillo</string>
+    <string name="place_mercado_description">Mercado de abastos donde se surten varios restaurantes de la ciudad. Buen sitio para ver frutas, ajíes y pescado de la costa.</string>
+    <string name="place_artesania_name">Feria de Artesanía</string>
+    <string name="place_artesania_address">Av. Petit Thouars 5245, Miraflores</string>
+    <string name="place_artesania_description">Varias cuadras de puestos de textiles, cerámica y plata de distintas regiones del país. Se puede regatear.</string>
+    <string name="place_centro_comercial_name">Centro comercial del malecón</string>
+    <string name="place_centro_comercial_address">Malecón de la Reserva 610, Miraflores</string>
+    <string name="place_centro_comercial_description">Centro comercial construido sobre el acantilado, con tiendas, cines y terrazas con vista al mar.</string>
+</resources>
