@@ -7,7 +7,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.dessertclicker"
+        applicationId "com.example.dessertclicker.viewmodel"
         minSdk 21
         targetSdk 33
         versionCode 1
